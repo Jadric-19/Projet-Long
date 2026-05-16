@@ -129,7 +129,7 @@ Visualisation complète dans Neo4j Browser
 
 # Script Cypher complet
 
-(voir fichier : `nba_graph.cypher`)
+(voir fichier : `Graphe3.cypher`)
 
 -------
 
